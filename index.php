@@ -18,7 +18,6 @@
   <div class="form-group">
     <label for="exampleInputPassword1" class="text-uppercase">Password</label>
     <input type="password" name="adpass" class="form-control" placeholder="Password">
-    <input type="submit" value="Login">
   </div>
   
   
@@ -27,7 +26,7 @@
       <input type="checkbox" class="form-check-input">
       <small>Remember Me</small>
     </label>
-    <button type="submit" class="btn btn-login float-right">Submit</button>
+    <button type="submit" value="Login" class="btn btn-login float-right">Submit</button>
   </div>
   
 </form>
