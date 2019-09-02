@@ -1,10 +1,9 @@
- 
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+ <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>\
 <link rel="stylesheet" type="text/css" href="style.css">
 <!------ Include the above in your HEAD tag ---------->
- <title>LOGIN</title>
+ <title>Login</title>
 <section class="login-block">
     <div class="container">
     <div class="row">
@@ -42,7 +41,7 @@
                   </ol>
             <div class="carousel-inner" role="listbox">
     <div class="carousel-item active">
-      <img class="d-block img-fluid" src="https://static.pexels.com/photos/33972/pexels-photo.jpg" alt="First slide">
+      <img class="d-block img-fluid" src="https://lumiere-a.akamaihd.net/v1/images/au_movies_toystory4_hero_m_2_cb8226ff.jpeg?region=0,0,750,688" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
         <div class="banner-text">
             <h2>TOY STORE</h2>
